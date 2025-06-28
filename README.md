@@ -6,7 +6,11 @@ Die Produkte werden in vier Kategorien angeboten (Bettrahmen, Matratzen, Bettwä
 
 
 ## Daten 
-Die Daten stammen aus dem Kurs „Data Skills for Excel Professionals Specialization“ des Corporate Finance Institute, der auf der Plattform Coursera angeboten wird. Der Datensatz umfasst insgesamt sechs Tabellen, wobei die Tabelle „Sales“ eine zentrale Rolle spielt. Sie enthält 133.978 einzelne Verkaufsdatensätze mit neun Merkmalen. Zu diesen Merkmalen gehören Informationen wie Verkaufsdatum, Standort, Manager, Produkt, Verkaufsmenge, Preis, Marge sowie Angaben zu Werbeaktionen.
-Die übrigen Tabellen liefern ergänzende Informationen zu den Merkmalen der „Sales“-Tabelle, z. B. Details zu Produkten, Standorten und Managern .  Dadurch entsteht eine strukturierte und verknüpfte Datenbasis, auf der das Dashboard aufgebaut wurde.
+Die verwendeten Daten stammen aus dem genannten Kurs und bestehen aus insgesamt sechs verknüpften Tabellen. Die zentrale Tabelle „Sales“ enthält 133.978 Verkaufsdatensätze mit neun Merkmalen, darunter: Verkaufsdatum, Standort,Manager,Produkt,Verkaufsmenge,Preis, Marge und Werbeaktion. Die weiteren Tabellen liefern ergänzende Informationen zu diesen Merkmalen,beispielsweise detaillierte Angaben zu Produkten, Standorten und Managern. Auf Basis dieser strukturierten und integrierten Datenbasis wurde ein interaktives Dashboard entwickelt, das eine fundierte Analyse der Unternehmensleistung ermöglicht.
+
+
+## Ergebnis
+![alt text](image.png)
+
 
  
