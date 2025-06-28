@@ -12,5 +12,6 @@ Die verwendeten Daten stammen aus dem genannten Kurs und bestehen aus insgesamt 
 ## Ergebnis
 ![alt text](image.png)
 
-
- 
+## Fazit
+Mit diesem Dashboard ist es möglich, die Leistung pro Standort, Produktkategorie und Produktmarke zu analysieren.
+Unter „Leistung“ sind Kennzahlen wie die Verkaufsmenge, der Umsatz, der prozentuale Anteil des Umsatzes im ausgewählten Zeitraum im Vergleich zum entsprechenden Zeitraum des Vorjahres sowie die Marge in Prozent zu verstehen. Diese Kennzahlen können nach verschiedenen Dimensionen gefiltert werden, darunter: Zeitraum (Jahr, Quartal, Monat, Woche, Tag), Standort, Produktkategorie (falls erforderlich) und  Produktmarke (falls erforderlich). Mit Ausnahme des Zeitraums lassen sich diese Filter auch auf zwei Zeitreihendiagramme anwenden, die die Entwicklung von Umsatz und Marge über die Zeit visualisieren. 
