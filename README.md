@@ -5,7 +5,7 @@ Dieses Projekt wurde im Rahmen der Weiterbildung „Data Skills for Excel Profes
 
 ## Daten 
 Die verwendeten Daten stammen aus dem oben genannten Kurs und bestehen aus insgesamt sechs verknüpften Tabellen. 
-![alt text](Daten.png)
+![alt text](Data_Set.png)
 
 ## Ergebnis
 Dieses Ergebnis basiert auf dem Import der Daten, deren Bereinigung in Power Query sowie der anschließenden Modellierung in Power Pivot und Visualisierung in Excel. 
