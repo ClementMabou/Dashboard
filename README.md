@@ -5,6 +5,7 @@ Dieses Projekt wurde im Rahmen der Weiterbildung „Data Skills for Excel Profes
 
 ## Daten 
 Die verwendeten Daten stammen aus dem oben genannten Kurs und bestehen aus insgesamt sechs verknüpften Tabellen. Die zentrale Tabelle „Sales“ enthält 133.978 Verkaufsdatensätze mit neun Merkmalen, darunter: Verkaufsdatum, Standort,Manager,Produkt,Verkaufsmenge,Preis, Marge und Werbeaktion. Die weiteren Tabellen liefern ergänzende Informationen zu diesen Merkmalen,beispielsweise detaillierte Angaben zu Produkten, Standorten und Managern. Auf Basis dieser strukturierten und integrierten Datenbasis wurde ein interaktives Dashboard entwickelt, das eine fundierte Analyse der Unternehmensleistung ermöglicht.
+![alt text](image-1.png)
 
 ## Ergebnis
 Dieses Ergebnis basiert auf dem Import der Daten, deren Bereinigung in Power Query sowie der anschließenden Modellierung in Power Pivot und Visualisierung in Excel. 
