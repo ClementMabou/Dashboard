@@ -9,7 +9,7 @@ Die verwendeten Daten stammen aus dem oben genannten Kurs und bestehen aus insge
 
 ## Ergebnis
 Dieses Ergebnis basiert auf dem Import der Daten, deren Bereinigung in Power Query sowie der anschließenden Modellierung in Power Pivot und Visualisierung in Excel. 
-![alt text](image.png)
+![alt text](image-2.png)
 
 ## Fazit
 Mit diesem Dashboard ist es möglich, die Leistung pro Standort, Produktkategorie und Produktmarke zu analysieren.
