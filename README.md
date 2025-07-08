@@ -8,7 +8,7 @@ Die verwendeten Daten stammen aus dem oben genannten Kurs und bestehen aus insge
 ![alt text](Data_Set.png)
 
 ## Ergebnis
-Dieses Ergebnis basiert auf dem Import der Daten, deren Bereinigung in Power Query sowie der anschließenden Modellierung in Power Pivot und Visualisierung in Excel. 
+Dieses Ergebnis basiert auf dem Import der Daten, deren Bereinigung in Power Query sowie der anschließenden Modellierung in Power Pivot sowie der Visualisierung in Excel. 
 ![alt text](Dashboard.png)
 
 ## Fazit
