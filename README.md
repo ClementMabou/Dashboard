@@ -5,11 +5,11 @@ Dieses Projekt wurde im Rahmen der Weiterbildung „Data Skills for Excel Profes
 
 ## Daten 
 Die verwendeten Daten stammen aus dem oben genannten Kurs und bestehen aus insgesamt sechs verknüpften Tabellen. 
-![alt text](image-1.png)
+![alt text](Daten.png)
 
 ## Ergebnis
 Dieses Ergebnis basiert auf dem Import der Daten, deren Bereinigung in Power Query sowie der anschließenden Modellierung in Power Pivot und Visualisierung in Excel. 
-![alt text](image-2.png)
+![alt text](Dashboard.png)
 
 ## Fazit
 Mit diesem Dashboard ist es möglich, die Leistung pro Standort, Produktkategorie und Produktmarke zu analysieren.
