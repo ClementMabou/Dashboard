@@ -1,4 +1,4 @@
-# Dashboard
+# Sales Dashboard mit Excel 
 Erstellung eines interaktiven Dashboards zur Visualisierung der Unternehmensleistung mithilfe von Excel, Power Query und Power Pivot
 ## Übersicht
 Dieses Projekt wurde im Rahmen der Weiterbildung „Data Skills for Excel Professionals Specialization“ des Corporate Finance Institute auf der Plattform Coursera durchgeführt. Ziel des Projekts war die Erstellung eines Dashboards zur Verfolgung der Unternehmensleistung. Als Datengrundlage dienten die Verkaufsdaten des fiktiven Unternehmens Head Rest Bed Company aus den Jahren 2018 und 2019. Die Head Rest Bed Company vertreibt Bettzubehör an acht Standorten in den USA und bietet ihre Produkte in vier Kategorien (Bettrahmen, Matratzen, Bettwäsche und Kopfkissen ) unter vier Marken an.
